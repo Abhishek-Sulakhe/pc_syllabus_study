@@ -19,14 +19,14 @@
 | **Phase 4** | Create 100% Item-by-Item Syllabus Coverage Matrix | **COMPLETE** | 2026-11-14 |
 | **Phase 5** | Create Persistent Writing Standards & Generation Context | **COMPLETE** | 2026-11-14 |
 | **Phase 6** | **STOP & Present Roadmap for User Approval** | **COMPLETE** | 2026-11-14 |
-| **Phase 7** | Sequential Generation of Subtopic Study Files (1 by 1) | **IN PROGRESS** (47/62) | — |
+| **Phase 7** | Sequential Generation of Subtopic Study Files (1 by 1) | **IN PROGRESS** (52/62) | — |
 | **Phase 8** | Verification, Quality Control & Progress Updates | In Progress | — |
 | **Phase 9** | 100% Full Syllabus Coverage Audit | Pending | — |
 | **Phase 10** | Final Comprehensive Exam Preparation Materials Generation | Pending | — |
 
 ---
 
-## 2. Study Files Generation Progress (47 of 62 Completed)
+## 2. Study Files Generation Progress (52 of 62 Completed)
 
 ### PART A: TILL MIDSEM (Lectures 1–16)
 
@@ -121,14 +121,14 @@
 | 10.03 Compiling & Launching MPI Programs | `study/10_MPI_Fundamentals/03_Compiling_and_Launching_MPI_Programs.md` | L25 | High | **COMPLETE** (2026-11-14) |
 | 10.04 Communication Paradigms Overview | `study/10_MPI_Fundamentals/04_Communication_Paradigms_Overview.md` | L25 | Medium | **COMPLETE** (2026-11-14) |
 
-#### Module 11: MPI Point-to-Point & Dynamic Processes (Lectures 26–29)
+#### Module 11: MPI Point-to-Point & Dynamic Processes (Lectures 26–29) — [MODULE COMPLETE]
 | Subtopic | File Path | Lecture | Complexity | Status |
 |:---|:---|:---:|:---:|:---:|
-| 11.01 Blocking Point-to-Point: Send & Recv | `study/11_MPI_Communication/01_Blocking_Point_to_Point_Send_and_Recv.md` | L26 | Very High | Pending Approval |
-| 11.02 Non-Blocking Communication: Isend & Irecv | `study/11_MPI_Communication/02_Non_Blocking_Communication_Isend_and_Irecv.md` | L27 | Very High | Pending Approval |
-| 11.03 Dynamic Process Management: Ports & Intercomms | `study/11_MPI_Communication/03_Dynamic_Process_Management_Ports_and_Intercommunicators.md` | L28 | Very High | Pending Approval |
-| 11.04 Sender/Receiver Workflows & ompi-server | `study/11_MPI_Communication/04_Sender_Receiver_Workflows_and_ompi_server.md` | L29 | Very High | Pending Approval |
-| 11.05 MPI Troubleshooting & Error Handling | `study/11_MPI_Communication/05_MPI_Troubleshooting_and_Error_Handling.md` | L29 | High | Pending Approval |
+| 11.01 Blocking Point-to-Point: Send & Recv | `study/11_MPI_Communication/01_Blocking_Point_to_Point_Send_and_Recv.md` | L26 | Very High | **COMPLETE** (2026-11-14) |
+| 11.02 Non-Blocking Communication: Isend & Irecv | `study/11_MPI_Communication/02_Non_Blocking_Communication_Isend_and_Irecv.md` | L27 | Very High | **COMPLETE** (2026-11-14) |
+| 11.03 Dynamic Process Management: Ports & Intercomms | `study/11_MPI_Communication/03_Dynamic_Process_Management_Ports_and_Intercommunicators.md` | L28 | Very High | **COMPLETE** (2026-11-14) |
+| 11.04 Sender/Receiver Workflows & ompi-server | `study/11_MPI_Communication/04_Sender_Receiver_Workflows_and_ompi_server.md` | L29 | Very High | **COMPLETE** (2026-11-14) |
+| 11.05 MPI Troubleshooting & Error Handling | `study/11_MPI_Communication/05_MPI_Troubleshooting_and_Error_Handling.md` | L29 | High | **COMPLETE** (2026-11-14) |
 
 #### Module 12: MPI Collective Operations (Lectures 30–31)
 | Subtopic | File Path | Lecture | Complexity | Status |
