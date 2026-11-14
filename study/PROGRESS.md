@@ -19,14 +19,14 @@
 | **Phase 4** | Create 100% Item-by-Item Syllabus Coverage Matrix | **COMPLETE** | 2026-11-14 |
 | **Phase 5** | Create Persistent Writing Standards & Generation Context | **COMPLETE** | 2026-11-14 |
 | **Phase 6** | **STOP & Present Roadmap for User Approval** | **COMPLETE** | 2026-11-14 |
-| **Phase 7** | Sequential Generation of Subtopic Study Files (1 by 1) | **IN PROGRESS** (37/62) | — |
+| **Phase 7** | Sequential Generation of Subtopic Study Files (1 by 1) | **IN PROGRESS** (43/62) | — |
 | **Phase 8** | Verification, Quality Control & Progress Updates | In Progress | — |
 | **Phase 9** | 100% Full Syllabus Coverage Audit | Pending | — |
 | **Phase 10** | Final Comprehensive Exam Preparation Materials Generation | Pending | — |
 
 ---
 
-## 2. Study Files Generation Progress (37 of 62 Completed)
+## 2. Study Files Generation Progress (43 of 62 Completed)
 
 ### PART A: TILL MIDSEM (Lectures 1–16)
 
@@ -103,15 +103,15 @@
 | 08.04 Joining, Detaching & Resource Reclamation | `study/08_POSIX_and_Pthreads/04_Joining_Detaching_and_Resource_Reclamation.md` | L19 | High | **COMPLETE** (2026-11-14) |
 | 08.05 Argument Passing Patterns & Pitfalls | `study/08_POSIX_and_Pthreads/05_Argument_Passing_Patterns_and_Pitfalls.md` | L19 | Very High | **COMPLETE** (2026-11-14) |
 
-#### Module 09: Pthreads Synchronization Primitives (Lectures 20–23)
+#### Module 09: Pthreads Synchronization Primitives (Lectures 20–23) — [MODULE COMPLETE]
 | Subtopic | File Path | Lecture | Complexity | Status |
 |:---|:---|:---:|:---:|:---:|
-| 09.01 Race Conditions & Mutexes | `study/09_Pthreads_Synchronization/01_Race_Conditions_and_Mutexes.md` | L20 | High | Pending Approval |
-| 09.02 Condition Variables & Coordination | `study/09_Pthreads_Synchronization/02_Condition_Variables_and_Coordination.md` | L21 | Very High | Pending Approval |
-| 09.03 Producer–Consumer & POSIX Semaphores | `study/09_Pthreads_Synchronization/03_Producer_Consumer_and_POSIX_Semaphores.md` | L22 | Very High | Pending Approval |
-| 09.04 Read-Write Locks & Read-Heavy Workloads | `study/09_Pthreads_Synchronization/04_Read_Write_Locks_and_Read_Heavy_Workloads.md` | L23 | High | Pending Approval |
-| 09.05 Barriers & Phase Synchronization | `study/09_Pthreads_Synchronization/05_Barriers_and_Phase_Synchronization.md` | L23 | High | Pending Approval |
-| 09.06 Spinlocks, Busy-Waiting & Selection Guide | `study/09_Pthreads_Synchronization/06_Spinlocks_Busy_Waiting_and_Selection_Guide.md` | L23 | Very High | Pending Approval |
+| 09.01 Race Conditions & Mutexes | `study/09_Pthreads_Synchronization/01_Race_Conditions_and_Mutexes.md` | L20 | High | **COMPLETE** (2026-11-14) |
+| 09.02 Condition Variables & Coordination | `study/09_Pthreads_Synchronization/02_Condition_Variables_and_Coordination.md` | L21 | Very High | **COMPLETE** (2026-11-14) |
+| 09.03 Producer–Consumer & POSIX Semaphores | `study/09_Pthreads_Synchronization/03_Producer_Consumer_and_POSIX_Semaphores.md` | L22 | Very High | **COMPLETE** (2026-11-14) |
+| 09.04 Read-Write Locks & Read-Heavy Workloads | `study/09_Pthreads_Synchronization/04_Read_Write_Locks_and_Read_Heavy_Workloads.md` | L23 | High | **COMPLETE** (2026-11-14) |
+| 09.05 Barriers & Phase Synchronization | `study/09_Pthreads_Synchronization/05_Barriers_and_Phase_Synchronization.md` | L23 | High | **COMPLETE** (2026-11-14) |
+| 09.06 Spinlocks, Busy-Waiting & Selection Guide | `study/09_Pthreads_Synchronization/06_Spinlocks_Busy_Waiting_and_Selection_Guide.md` | L23 | Very High | **COMPLETE** (2026-11-14) |
 
 #### Module 10: MPI Fundamentals & Environment (Lectures 24–25)
 | Subtopic | File Path | Lecture | Complexity | Status |
