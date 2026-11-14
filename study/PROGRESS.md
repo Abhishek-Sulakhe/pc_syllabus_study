@@ -19,14 +19,14 @@
 | **Phase 4** | Create 100% Item-by-Item Syllabus Coverage Matrix | **COMPLETE** | 2026-11-14 |
 | **Phase 5** | Create Persistent Writing Standards & Generation Context | **COMPLETE** | 2026-11-14 |
 | **Phase 6** | **STOP & Present Roadmap for User Approval** | **COMPLETE** | 2026-11-14 |
-| **Phase 7** | Sequential Generation of Subtopic Study Files (1 by 1) | **IN PROGRESS** (52/62) | — |
+| **Phase 7** | Sequential Generation of Subtopic Study Files (1 by 1) | **IN PROGRESS** (57/62) | — |
 | **Phase 8** | Verification, Quality Control & Progress Updates | In Progress | — |
 | **Phase 9** | 100% Full Syllabus Coverage Audit | Pending | — |
 | **Phase 10** | Final Comprehensive Exam Preparation Materials Generation | Pending | — |
 
 ---
 
-## 2. Study Files Generation Progress (52 of 62 Completed)
+## 2. Study Files Generation Progress (57 of 62 Completed)
 
 ### PART A: TILL MIDSEM (Lectures 1–16)
 
@@ -130,14 +130,14 @@
 | 11.04 Sender/Receiver Workflows & ompi-server | `study/11_MPI_Communication/04_Sender_Receiver_Workflows_and_ompi_server.md` | L29 | Very High | **COMPLETE** (2026-11-14) |
 | 11.05 MPI Troubleshooting & Error Handling | `study/11_MPI_Communication/05_MPI_Troubleshooting_and_Error_Handling.md` | L29 | High | **COMPLETE** (2026-11-14) |
 
-#### Module 12: MPI Collective Operations (Lectures 30–31)
+#### Module 12: MPI Collective Operations (Lectures 30–31) — [MODULE COMPLETE]
 | Subtopic | File Path | Lecture | Complexity | Status |
 |:---|:---|:---:|:---:|:---:|
-| 12.01 Collective Operations Overview & Bcast | `study/12_MPI_Collectives/01_Collective_Operations_Overview_and_Bcast.md` | L30 | High | Pending Approval |
-| 12.02 Data Distribution & Scatter | `study/12_MPI_Collectives/02_Data_Distribution_and_Scatter.md` | L30 | High | Pending Approval |
-| 12.03 Data Collection: Gather & Allgather | `study/12_MPI_Collectives/03_Data_Collection_Gather_and_Allgather.md` | L31 | High | Pending Approval |
-| 12.04 Collective Reductions: Reduce & Allreduce | `study/12_MPI_Collectives/04_Collective_Reductions_Reduce_and_Allreduce.md` | L31 | Very High | Pending Approval |
-| 12.05 Process Synchronization: MPI_Barrier & Matrix | `study/12_MPI_Collectives/05_Process_Synchronization_MPI_Barrier_and_Comparison.md` | L31 | High | Pending Approval |
+| 12.01 Collective Operations Overview & Bcast | `study/12_MPI_Collectives/01_Collective_Operations_Overview_and_Bcast.md` | L30 | High | **COMPLETE** (2026-11-15) |
+| 12.02 Data Distribution & Scatter | `study/12_MPI_Collectives/02_Data_Distribution_and_Scatter.md` | L30 | High | **COMPLETE** (2026-11-15) |
+| 12.03 Data Collection: Gather & Allgather | `study/12_MPI_Collectives/03_Data_Collection_Gather_and_Allgather.md` | L31 | High | **COMPLETE** (2026-11-15) |
+| 12.04 Collective Reductions: Reduce & Allreduce | `study/12_MPI_Collectives/04_Collective_Reductions_Reduce_and_Allreduce.md` | L31 | Very High | **COMPLETE** (2026-11-15) |
+| 12.05 Process Synchronization: MPI_Barrier & Matrix | `study/12_MPI_Collectives/05_Process_Synchronization_MPI_Barrier_and_Comparison.md` | L31 | High | **COMPLETE** (2026-11-15) |
 
 #### Module 13: Hybrid MPI + OpenMP Programming (Lecture 32)
 | Subtopic | File Path | Lecture | Complexity | Status |
