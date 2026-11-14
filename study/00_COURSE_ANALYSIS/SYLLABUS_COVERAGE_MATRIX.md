@@ -87,23 +87,23 @@ This document provides a 100% complete, verifiable, item-by-item mapping of ever
 | **L12** | Worked Examples: Critical, Atomic, Reduction | False sharing analysis and cache-line padding | `study/06_OpenMP_Synchronization/04_Worked_Examples_Manual_Local_Sum_and_False_Sharing.md` | **COMPLETE** |
 | **L12** | Worked Examples: Critical, Atomic, Reduction | OpenMP reduction clause (`reduction(op : list)`) | `study/06_OpenMP_Synchronization/05_Reduction_Clause_and_Mathematical_Properties.md` | **COMPLETE** |
 | **L12** | Worked Examples: Critical, Atomic, Reduction | Reduction operators and mathematical properties (associativity, commutativity) | `study/06_OpenMP_Synchronization/05_Reduction_Clause_and_Mathematical_Properties.md` | **COMPLETE** |
-| **L13–14** | Task Parallelism & OpenMP Taskloop | Task parallelism vs. Loop (data) parallelism | `study/07_OpenMP_Tasks_and_SIMD/01_Task_Parallelism_vs_Data_Parallelism.md` | Planned |
-| **L13–14** | Task Parallelism & OpenMP Taskloop | OpenMP tasks (`#pragma omp task`, task queues, thread pools) | `study/07_OpenMP_Tasks_and_SIMD/02_OpenMP_Task_and_Taskloop_Constructs.md` | Planned |
-| **L13–14** | Task Parallelism & OpenMP Taskloop | `#pragma omp taskloop` construct | `study/07_OpenMP_Tasks_and_SIMD/02_OpenMP_Task_and_Taskloop_Constructs.md` | Planned |
-| **L13–14** | Task Parallelism & OpenMP Taskloop | `grainsize` and `num_tasks` clauses | `study/07_OpenMP_Tasks_and_SIMD/02_OpenMP_Task_and_Taskloop_Constructs.md` | Planned |
-| **L13–14** | Task Parallelism & OpenMP Taskloop | Task distribution and execution (recursive tasks, work stealing) | `study/07_OpenMP_Tasks_and_SIMD/02_OpenMP_Task_and_Taskloop_Constructs.md` | Planned |
-| **L13–14** | Task Parallelism & OpenMP Taskloop | When task-based parallelism is useful (irregular, recursive, graph algorithms) | `study/07_OpenMP_Tasks_and_SIMD/01_Task_Parallelism_vs_Data_Parallelism.md` | Planned |
-| **L15** | OpenMP SIMD — Part 1 | SIMD execution model and `#pragma omp simd` | `study/07_OpenMP_Tasks_and_SIMD/03_SIMD_Vectorization_Basics_and_Pragma_simd.md` | Planned |
-| **L15** | OpenMP SIMD — Part 1 | How the compiler vectorizes loops (SSE, AVX, AVX-512) | `study/07_OpenMP_Tasks_and_SIMD/03_SIMD_Vectorization_Basics_and_Pragma_simd.md` | Planned |
-| **L15** | OpenMP SIMD — Part 1 | Compiler vectorization reports (`-fopt-info-vec`, `-fopt-info-vec-missed`) | `study/07_OpenMP_Tasks_and_SIMD/04_Compiler_Vectorization_Reports_and_Flags.md` | Planned |
-| **L15** | OpenMP SIMD — Part 1 | Compilation flag `-march=native` | `study/07_OpenMP_Tasks_and_SIMD/04_Compiler_Vectorization_Reports_and_Flags.md` | Planned |
-| **L15** | OpenMP SIMD — Part 1 | Vectorization opportunities and limitations (dependencies, aliasing) | `study/07_OpenMP_Tasks_and_SIMD/04_Compiler_Vectorization_Reports_and_Flags.md` | Planned |
-| **L16** | OpenMP SIMD — Part 2 | `private()` in SIMD loops and scoping rules | `study/07_OpenMP_Tasks_and_SIMD/05_SIMD_Scoping_Private_and_Latent_Bugs.md` | Planned |
-| **L16** | OpenMP SIMD — Part 2 | Latent bugs caused by missing or incorrect scoping in SIMD | `study/07_OpenMP_Tasks_and_SIMD/05_SIMD_Scoping_Private_and_Latent_Bugs.md` | Planned |
-| **L16** | OpenMP SIMD — Part 2 | SIMD reduction (`reduction(+:var)`) | `study/07_OpenMP_Tasks_and_SIMD/06_SIMD_Reduction_Alignment_and_Warmup.md` | Planned |
-| **L16** | OpenMP SIMD — Part 2 | The `aligned` clause (`aligned(ptr : alignment)`) | `study/07_OpenMP_Tasks_and_SIMD/06_SIMD_Reduction_Alignment_and_Warmup.md` | Planned |
-| **L16** | OpenMP SIMD — Part 2 | Cache-line alignment effects (aligned vs unaligned memory access) | `study/07_OpenMP_Tasks_and_SIMD/06_SIMD_Reduction_Alignment_and_Warmup.md` | Planned |
-| **L16** | OpenMP SIMD — Part 2 | Benchmark warmup and steady-state vector performance | `study/07_OpenMP_Tasks_and_SIMD/06_SIMD_Reduction_Alignment_and_Warmup.md` | Planned |
+| **L13–14** | Task Parallelism & OpenMP Taskloop | Task parallelism vs. Loop (data) parallelism | `study/07_OpenMP_Tasks_and_SIMD/01_Task_Parallelism_vs_Data_Parallelism.md` | **COMPLETE** |
+| **L13–14** | Task Parallelism & OpenMP Taskloop | OpenMP tasks (`#pragma omp task`, task queues, thread pools) | `study/07_OpenMP_Tasks_and_SIMD/02_OpenMP_Task_and_Taskloop_Constructs.md` | **COMPLETE** |
+| **L13–14** | Task Parallelism & OpenMP Taskloop | `#pragma omp taskloop` construct | `study/07_OpenMP_Tasks_and_SIMD/02_OpenMP_Task_and_Taskloop_Constructs.md` | **COMPLETE** |
+| **L13–14** | Task Parallelism & OpenMP Taskloop | `grainsize` and `num_tasks` clauses | `study/07_OpenMP_Tasks_and_SIMD/02_OpenMP_Task_and_Taskloop_Constructs.md` | **COMPLETE** |
+| **L13–14** | Task Parallelism & OpenMP Taskloop | Task distribution and execution (recursive tasks, work stealing) | `study/07_OpenMP_Tasks_and_SIMD/02_OpenMP_Task_and_Taskloop_Constructs.md` | **COMPLETE** |
+| **L13–14** | Task Parallelism & OpenMP Taskloop | When task-based parallelism is useful (irregular, recursive, graph algorithms) | `study/07_OpenMP_Tasks_and_SIMD/01_Task_Parallelism_vs_Data_Parallelism.md` | **COMPLETE** |
+| **L15** | OpenMP SIMD — Part 1 | SIMD execution model and `#pragma omp simd` | `study/07_OpenMP_Tasks_and_SIMD/03_SIMD_Vectorization_Basics_and_Pragma_simd.md` | **COMPLETE** |
+| **L15** | OpenMP SIMD — Part 1 | How the compiler vectorizes loops (SSE, AVX, AVX-512) | `study/07_OpenMP_Tasks_and_SIMD/03_SIMD_Vectorization_Basics_and_Pragma_simd.md` | **COMPLETE** |
+| **L15** | OpenMP SIMD — Part 1 | Compiler vectorization reports (`-fopt-info-vec`, `-fopt-info-vec-missed`) | `study/07_OpenMP_Tasks_and_SIMD/04_Compiler_Vectorization_Reports_and_Flags.md` | **COMPLETE** |
+| **L15** | OpenMP SIMD — Part 1 | Compilation flag `-march=native` | `study/07_OpenMP_Tasks_and_SIMD/04_Compiler_Vectorization_Reports_and_Flags.md` | **COMPLETE** |
+| **L15** | OpenMP SIMD — Part 1 | Vectorization opportunities and limitations (dependencies, aliasing) | `study/07_OpenMP_Tasks_and_SIMD/04_Compiler_Vectorization_Reports_and_Flags.md` | **COMPLETE** |
+| **L16** | OpenMP SIMD — Part 2 | `private()` in SIMD loops and scoping rules | `study/07_OpenMP_Tasks_and_SIMD/05_SIMD_Scoping_Private_and_Latent_Bugs.md` | **COMPLETE** |
+| **L16** | OpenMP SIMD — Part 2 | Latent bugs caused by missing or incorrect scoping in SIMD | `study/07_OpenMP_Tasks_and_SIMD/05_SIMD_Scoping_Private_and_Latent_Bugs.md` | **COMPLETE** |
+| **L16** | OpenMP SIMD — Part 2 | SIMD reduction (`reduction(+:var)`) | `study/07_OpenMP_Tasks_and_SIMD/06_SIMD_Reduction_Alignment_and_Warmup.md` | **COMPLETE** |
+| **L16** | OpenMP SIMD — Part 2 | The `aligned` clause (`aligned(ptr : alignment)`) | `study/07_OpenMP_Tasks_and_SIMD/06_SIMD_Reduction_Alignment_and_Warmup.md` | **COMPLETE** |
+| **L16** | OpenMP SIMD — Part 2 | Cache-line alignment effects (aligned vs unaligned memory access) | `study/07_OpenMP_Tasks_and_SIMD/06_SIMD_Reduction_Alignment_and_Warmup.md` | **COMPLETE** |
+| **L16** | OpenMP SIMD — Part 2 | Benchmark warmup and steady-state vector performance | `study/07_OpenMP_Tasks_and_SIMD/06_SIMD_Reduction_Alignment_and_Warmup.md` | **COMPLETE** |
 
 ---
 
