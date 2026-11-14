@@ -19,14 +19,14 @@
 | **Phase 4** | Create 100% Item-by-Item Syllabus Coverage Matrix | **COMPLETE** | 2026-11-14 |
 | **Phase 5** | Create Persistent Writing Standards & Generation Context | **COMPLETE** | 2026-11-14 |
 | **Phase 6** | **STOP & Present Roadmap for User Approval** | **COMPLETE** | 2026-11-14 |
-| **Phase 7** | Sequential Generation of Subtopic Study Files (1 by 1) | **IN PROGRESS** (32/62) | — |
-| **Phase 8** | Verification, Quality Control & Progress Updates | Pending Approval | — |
-| **Phase 9** | 100% Full Syllabus Coverage Audit | Pending Approval | — |
-| **Phase 10** | Final Comprehensive Exam Preparation Materials Generation | Pending Approval | — |
+| **Phase 7** | Sequential Generation of Subtopic Study Files (1 by 1) | **IN PROGRESS** (37/62) | — |
+| **Phase 8** | Verification, Quality Control & Progress Updates | In Progress | — |
+| **Phase 9** | 100% Full Syllabus Coverage Audit | Pending | — |
+| **Phase 10** | Final Comprehensive Exam Preparation Materials Generation | Pending | — |
 
 ---
 
-## 2. Study Files Generation Progress (32 of 62 Completed - PART A FINISHED)
+## 2. Study Files Generation Progress (37 of 62 Completed)
 
 ### PART A: TILL MIDSEM (Lectures 1–16)
 
@@ -94,14 +94,14 @@
 
 ### PART B: AFTER MIDSEM (Lectures 17–32)
 
-#### Module 08: POSIX & Pthreads Foundations (Lectures 17–19)
+#### Module 08: POSIX & Pthreads Foundations (Lectures 17–19) — [MODULE COMPLETE]
 | Subtopic | File Path | Lecture | Complexity | Status |
 |:---|:---|:---:|:---:|:---:|
-| 08.01 POSIX Standard & Pthreads Overview | `study/08_POSIX_and_Pthreads/01_POSIX_Standard_and_Pthreads_Overview.md` | L17 | Medium | Pending Approval |
-| 08.02 Thread Creation: pthread_create & Handles | `study/08_POSIX_and_Pthreads/02_Thread_Creation_pthread_create_and_Handles.md` | L18 | High | Pending Approval |
-| 08.03 Thread Attributes & Scheduling Policies | `study/08_POSIX_and_Pthreads/03_Thread_Attributes_and_Scheduling_Policies.md` | L18 | High | Pending Approval |
-| 08.04 Joining, Detaching & Resource Reclamation | `study/08_POSIX_and_Pthreads/04_Joining_Detaching_and_Resource_Reclamation.md` | L19 | High | Pending Approval |
-| 08.05 Argument Passing Patterns & Pitfalls | `study/08_POSIX_and_Pthreads/05_Argument_Passing_Patterns_and_Pitfalls.md` | L19 | Very High | Pending Approval |
+| 08.01 POSIX Standard & Pthreads Overview | `study/08_POSIX_and_Pthreads/01_POSIX_Standard_and_Pthreads_Overview.md` | L17 | Medium | **COMPLETE** (2026-11-14) |
+| 08.02 Thread Creation: pthread_create & Handles | `study/08_POSIX_and_Pthreads/02_Thread_Creation_pthread_create_and_Handles.md` | L18 | High | **COMPLETE** (2026-11-14) |
+| 08.03 Thread Attributes & Scheduling Policies | `study/08_POSIX_and_Pthreads/03_Thread_Attributes_and_Scheduling_Policies.md` | L18 | High | **COMPLETE** (2026-11-14) |
+| 08.04 Joining, Detaching & Resource Reclamation | `study/08_POSIX_and_Pthreads/04_Joining_Detaching_and_Resource_Reclamation.md` | L19 | High | **COMPLETE** (2026-11-14) |
+| 08.05 Argument Passing Patterns & Pitfalls | `study/08_POSIX_and_Pthreads/05_Argument_Passing_Patterns_and_Pitfalls.md` | L19 | Very High | **COMPLETE** (2026-11-14) |
 
 #### Module 09: Pthreads Synchronization Primitives (Lectures 20–23)
 | Subtopic | File Path | Lecture | Complexity | Status |
