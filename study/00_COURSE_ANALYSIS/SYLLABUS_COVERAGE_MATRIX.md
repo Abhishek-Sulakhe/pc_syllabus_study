@@ -77,16 +77,16 @@ This document provides a 100% complete, verifiable, item-by-item mapping of ever
 | **L9–10** | OpenMP Loop Scheduling | Scheduling trade-offs (overhead vs load balance, cache affinity) | `study/05_OpenMP_Work_Sharing_and_Scheduling/04_Scheduling_Tradeoffs_and_Performance.md` | **COMPLETE** |
 | **L11** | OpenMP Synchronization | Critical sections (`#pragma omp critical [name]`) | `study/06_OpenMP_Synchronization/01_Race_Conditions_Critical_and_Atomic.md` | **COMPLETE** |
 | **L11** | OpenMP Synchronization | `critical` vs. `atomic` (`#pragma omp atomic`, hardware atomics) | `study/06_OpenMP_Synchronization/01_Race_Conditions_Critical_and_Atomic.md` | **COMPLETE** |
-| **L11** | OpenMP Synchronization | Barriers (`#pragma omp barrier`, implicit vs explicit barriers) | `study/06_OpenMP_Synchronization/02_Barriers_Nowait_and_Ordered_Execution.md` | Planned |
-| **L11** | OpenMP Synchronization | `single` with and without `nowait` clause | `study/06_OpenMP_Synchronization/02_Barriers_Nowait_and_Ordered_Execution.md` | Planned |
-| **L11** | OpenMP Synchronization | Ordered execution (`#pragma omp ordered`) | `study/06_OpenMP_Synchronization/02_Barriers_Nowait_and_Ordered_Execution.md` | Planned |
-| **L11** | OpenMP Synchronization | Low-level OpenMP locks: `omp_lock_t` and complete API | `study/06_OpenMP_Synchronization/03_Low_Level_Locks_omp_lock_t.md` | Planned |
+| **L11** | OpenMP Synchronization | Barriers (`#pragma omp barrier`, implicit vs explicit barriers) | `study/06_OpenMP_Synchronization/02_Barriers_Nowait_and_Ordered_Execution.md` | **COMPLETE** |
+| **L11** | OpenMP Synchronization | `single` with and without `nowait` clause | `study/06_OpenMP_Synchronization/02_Barriers_Nowait_and_Ordered_Execution.md` | **COMPLETE** |
+| **L11** | OpenMP Synchronization | Ordered execution (`#pragma omp ordered`) | `study/06_OpenMP_Synchronization/02_Barriers_Nowait_and_Ordered_Execution.md` | **COMPLETE** |
+| **L11** | OpenMP Synchronization | Low-level OpenMP locks: `omp_lock_t` and complete API | `study/06_OpenMP_Synchronization/03_Low_Level_Locks_omp_lock_t.md` | **COMPLETE** |
 | **L12** | Worked Examples: Critical, Atomic, Reduction | Race conditions in shared sums (machine-level interleaving demonstration) | `study/06_OpenMP_Synchronization/01_Race_Conditions_Critical_and_Atomic.md` | **COMPLETE** |
-| **L12** | Worked Examples: Critical, Atomic, Reduction | Fixing race conditions using `atomic` and `critical` | `study/06_OpenMP_Synchronization/04_Worked_Examples_Manual_Local_Sum_and_False_Sharing.md` | Planned |
-| **L12** | Worked Examples: Critical, Atomic, Reduction | Manual local-sum pattern (thread array accumulation) | `study/06_OpenMP_Synchronization/04_Worked_Examples_Manual_Local_Sum_and_False_Sharing.md` | Planned |
-| **L12** | Worked Examples: Critical, Atomic, Reduction | False sharing analysis and cache-line padding | `study/06_OpenMP_Synchronization/04_Worked_Examples_Manual_Local_Sum_and_False_Sharing.md` | Planned |
-| **L12** | Worked Examples: Critical, Atomic, Reduction | OpenMP reduction clause (`reduction(op : list)`) | `study/06_OpenMP_Synchronization/05_Reduction_Clause_and_Mathematical_Properties.md` | Planned |
-| **L12** | Worked Examples: Critical, Atomic, Reduction | Reduction operators and mathematical properties (associativity, commutativity) | `study/06_OpenMP_Synchronization/05_Reduction_Clause_and_Mathematical_Properties.md` | Planned |
+| **L12** | Worked Examples: Critical, Atomic, Reduction | Fixing race conditions using `atomic` and `critical` | `study/06_OpenMP_Synchronization/04_Worked_Examples_Manual_Local_Sum_and_False_Sharing.md` | **COMPLETE** |
+| **L12** | Worked Examples: Critical, Atomic, Reduction | Manual local-sum pattern (thread array accumulation) | `study/06_OpenMP_Synchronization/04_Worked_Examples_Manual_Local_Sum_and_False_Sharing.md` | **COMPLETE** |
+| **L12** | Worked Examples: Critical, Atomic, Reduction | False sharing analysis and cache-line padding | `study/06_OpenMP_Synchronization/04_Worked_Examples_Manual_Local_Sum_and_False_Sharing.md` | **COMPLETE** |
+| **L12** | Worked Examples: Critical, Atomic, Reduction | OpenMP reduction clause (`reduction(op : list)`) | `study/06_OpenMP_Synchronization/05_Reduction_Clause_and_Mathematical_Properties.md` | **COMPLETE** |
+| **L12** | Worked Examples: Critical, Atomic, Reduction | Reduction operators and mathematical properties (associativity, commutativity) | `study/06_OpenMP_Synchronization/05_Reduction_Clause_and_Mathematical_Properties.md` | **COMPLETE** |
 | **L13–14** | Task Parallelism & OpenMP Taskloop | Task parallelism vs. Loop (data) parallelism | `study/07_OpenMP_Tasks_and_SIMD/01_Task_Parallelism_vs_Data_Parallelism.md` | Planned |
 | **L13–14** | Task Parallelism & OpenMP Taskloop | OpenMP tasks (`#pragma omp task`, task queues, thread pools) | `study/07_OpenMP_Tasks_and_SIMD/02_OpenMP_Task_and_Taskloop_Constructs.md` | Planned |
 | **L13–14** | Task Parallelism & OpenMP Taskloop | `#pragma omp taskloop` construct | `study/07_OpenMP_Tasks_and_SIMD/02_OpenMP_Task_and_Taskloop_Constructs.md` | Planned |
