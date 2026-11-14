@@ -194,14 +194,14 @@ This document provides a 100% complete, verifiable, item-by-item mapping of ever
 | **L31** | MPI Collectives: Collection, Reduction & Synchronization | `MPI_Barrier` process synchronization | `study/12_MPI_Collectives/05_Process_Synchronization_MPI_Barrier_and_Comparison.md` | **COMPLETE** |
 | **L31** | MPI Collectives: Collection, Reduction & Synchronization | Why `MPI_Barrier` exchanges zero application data | `study/12_MPI_Collectives/05_Process_Synchronization_MPI_Barrier_and_Comparison.md` | **COMPLETE** |
 | **L31** | MPI Collectives: Collection, Reduction & Synchronization | Grand comparative analysis of all collective operations | `study/12_MPI_Collectives/05_Process_Synchronization_MPI_Barrier_and_Comparison.md` | **COMPLETE** |
-| **L32** | Hybrid MPI + OpenMP | Hybrid parallel architecture: MPI between nodes, OpenMP threads within each process | `study/13_Hybrid_MPI_OpenMP/01_Hybrid_Computing_Model_and_Architecture.md` | Planned |
-| **L32** | Hybrid MPI + OpenMP | MPI processes vs OpenMP threads: separate vs shared address spaces | `study/13_Hybrid_MPI_OpenMP/01_Hybrid_Computing_Model_and_Architecture.md` | Planned |
-| **L32** | Hybrid MPI + OpenMP | Calculating total thread count across nodes | `study/13_Hybrid_MPI_OpenMP/02_Process_and_Thread_Hierarchy_Calculations.md` | Planned |
-| **L32** | Hybrid MPI + OpenMP | Worked example: 2 nodes $\times$ 1 process $\times$ 4 threads = 8 total threads | `study/13_Hybrid_MPI_OpenMP/02_Process_and_Thread_Hierarchy_Calculations.md` | Planned |
-| **L32** | Hybrid MPI + OpenMP | MPI thread safety levels: `MPI_Init_thread` (`SINGLE`, `FUNNELED`, `SERIALIZED`, `MULTIPLE`) | `study/13_Hybrid_MPI_OpenMP/03_MPI_Thread_Safety_Levels.md` | Planned |
-| **L32** | Hybrid MPI + OpenMP | Worked example: Complete hybrid MPI + OpenMP parallel sum | `study/13_Hybrid_MPI_OpenMP/04_Worked_Example_Hybrid_Parallel_Sum.md` | Planned |
-| **L32** | Hybrid MPI + OpenMP | How work is divided hierarchically between processes and threads | `study/13_Hybrid_MPI_OpenMP/04_Worked_Example_Hybrid_Parallel_Sum.md` | Planned |
-| **L32** | Hybrid MPI + OpenMP | Complete hybrid program compilation (`mpicc -fopenmp`), launch, and troubleshooting | `study/13_Hybrid_MPI_OpenMP/05_Building_Running_and_Troubleshooting_Hybrid_Apps.md` | Planned |
+| **L32** | Hybrid MPI + OpenMP | Hybrid parallel architecture: MPI between nodes, OpenMP threads within each process | `study/13_Hybrid_MPI_OpenMP/01_Hybrid_Computing_Model_and_Architecture.md` | **COMPLETE** |
+| **L32** | Hybrid MPI + OpenMP | MPI processes vs OpenMP threads: separate vs shared address spaces | `study/13_Hybrid_MPI_OpenMP/01_Hybrid_Computing_Model_and_Architecture.md` | **COMPLETE** |
+| **L32** | Hybrid MPI + OpenMP | Calculating total thread count across nodes | `study/13_Hybrid_MPI_OpenMP/02_Process_and_Thread_Hierarchy_Calculations.md` | **COMPLETE** |
+| **L32** | Hybrid MPI + OpenMP | Worked example: 2 nodes $\times$ 1 process $\times$ 4 threads = 8 total threads | `study/13_Hybrid_MPI_OpenMP/02_Process_and_Thread_Hierarchy_Calculations.md` | **COMPLETE** |
+| **L32** | Hybrid MPI + OpenMP | MPI thread safety levels: `MPI_Init_thread` (`SINGLE`, `FUNNELED`, `SERIALIZED`, `MULTIPLE`) | `study/13_Hybrid_MPI_OpenMP/03_MPI_Thread_Safety_Levels.md` | **COMPLETE** |
+| **L32** | Hybrid MPI + OpenMP | Worked example: Complete hybrid MPI + OpenMP parallel sum | `study/13_Hybrid_MPI_OpenMP/04_Worked_Example_Hybrid_Parallel_Sum.md` | **COMPLETE** |
+| **L32** | Hybrid MPI + OpenMP | How work is divided hierarchically between processes and threads | `study/13_Hybrid_MPI_OpenMP/04_Worked_Example_Hybrid_Parallel_Sum.md` | **COMPLETE** |
+| **L32** | Hybrid MPI + OpenMP | Complete hybrid program compilation (`mpicc -fopenmp`), launch, and troubleshooting | `study/13_Hybrid_MPI_OpenMP/05_Building_Running_and_Troubleshooting_Hybrid_Apps.md` | **COMPLETE** |
 
 ---
 
