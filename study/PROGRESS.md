@@ -162,3 +162,4 @@
 | `study/EXAM_PREPARATION/Pthreads_Programming_Questions.md`| Lab exam Pthreads coding bank (mutexes, CVs, bounded buffer, semaphores) | **COMPLETE** (2026-11-15) |
 | `study/EXAM_PREPARATION/MPI_Programming_Questions.md` | Lab exam MPI coding bank (point-to-point, non-blocking, collectives, ports)| **COMPLETE** (2026-11-15) |
 | `study/EXAM_PREPARATION/Last_Minute_Revision.md` | High-yield summary sheets, common exam traps, and syntax cheat sheets | **COMPLETE** (2026-11-15) |
+| `study/EXAM_PREPARATION/OpenMP_vs_POSIX_Comparative_Code_Guide.md` | Side-by-side comparative code guide across 10 major concurrency patterns | **COMPLETE** (2026-11-15) |
